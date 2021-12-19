@@ -1,0 +1,6 @@
+U - [Simpson, Homer] - [X]
+U - [Simpson, Lisa] - [X]
+U - [Simpson, Marge] - [X]
+U - [Simpson, Maggie] - [X]
+U - [Simpson, Bart] - [Lisa, Homer, Marge, Superhero, ]
+P - [Superhero, Simpson, Bart] - [X]
